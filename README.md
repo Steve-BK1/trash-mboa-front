@@ -236,8 +236,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📞 Contact
 
-- **GitHub** : [AlfredLandry1](https://github.com/AlfredLandry1)
-- **Projet** : [trash-boa-front](https://github.com/AlfredLandry1/trash-boa-front)
+- **GitHub** : [Steve-BK1](https://github.com/Steve-BK1)
+- **Projet** : [trash-mboa-front](https://github.com/Steve-BK1/trash-mboa-front.git)
 
 ---
 
